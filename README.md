@@ -1,93 +1,148 @@
-![C](https://img.shields.io/badge/C-Programming-blue)
-![Python](https://img.shields.io/badge/Python-3.13-yellow)
-![MATLAB](https://img.shields.io/badge/MATLAB-orange)
-![ECE](https://img.shields.io/badge/ECE-Student-success)
-# Hi there, I'm Sugirtha 👋
+<div align="center">
 
-### 🎓 Electronics & Communication Engineering Student
+# Hi 👋, I'm Sugirtha
 
-I am passionate about **Electronics, Programming, Artificial Intelligence, and Embedded Systems**. I enjoy building practical engineering projects and continuously expanding my technical skills.
+### Electronics & Communication Engineering Student
 
----
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=22&pause=1000&color=0A66C2&center=true&vCenter=true&width=600&lines=Electronics+%26+Communication+Engineering;C+Programmer;Python+Developer;AI+%26+Signal+Processing+Enthusiast;Always+Learning+%F0%9F%9A%80" />
 
-## 🚀 About Me
-
-- 🎓 B.E. Electronics & Communication Engineering
-- 💻 Learning and building projects using **C, Python, and HTML**
-- ⚡ Interested in AI, Signal Processing, Circuit Design, and Embedded Systems
-- 🔬 Strong foundation in Analog & Digital Electronics
-- 🌱 Currently improving my programming and problem-solving skills
-- 🤝 Open to internships and collaboration opportunities
+</div>
 
 ---
 
-## 🛠️ Technical Skills
+## 👩‍💻 About Me
 
-**Programming Languages**
+🎓 B.E. Electronics & Communication Engineering Student
+
+💡 Passionate about Electronics, Programming, Artificial Intelligence, and Embedded Systems
+
+💻 Learning and building projects using **C, Python, MATLAB, and HTML**
+
+📡 Interested in
+
+- Artificial Intelligence
+- Signal Processing
+- Embedded Systems
+- Analog & Digital Electronics
+- Circuit Design
+
+🌱 Currently improving my programming and problem-solving skills.
+
+---
+
+# 🛠️ Technical Skills
+
+### Programming Languages
+
 - C
 - Python
-
-**Web Technologies**
 - HTML
 
-**Software & Tools**
+### Software & Tools
+
 - MATLAB
 - Simulink
 - LTspice
 - KiCad
 - Tinkercad
 
----
+### Areas of Interest
 
-## 📂 Featured Projects
-
-🔹 AI Voice Forensics Lab
-
-- AI-based voice analysis for detecting manipulated audio.
-
-🔹 ECG Signal Conditioning System
-
-- Instrumentation amplifier-based ECG signal conditioning circuit.
-
-🔹 Smart Gold Testing Kit
-
-- Sensor-based system for gold purity analysis.
-
-🔹 Object Detector using Arduino
-
-- Arduino and ultrasonic sensor-based object detection system.
-
-🔹 Hand Gesture Controlled & Remote-Controlled Car
-
-- Wireless gesture-controlled robotic vehicle.
+- Artificial Intelligence
+- Digital Signal Processing
+- Embedded Systems
+- Analog Electronics
+- Digital Electronics
+- Circuit Design
 
 ---
 
-## 🏆 Certifications
+# 🚀 Projects
 
-- MATLAB Onramp
-- Simulink Onramp
-- Circuit Simulation Onramp
-- NPTEL – Introduction to Semiconductor Devices
-- Arduino Programming – Infosys Springboard
-- Linguaskill Business English (B1)
+### 🔹 AI Voice Forensics Lab
+
+Machine learning-based system for detecting deepfake audio.
+
+### 🔹 ECG Signal Conditioning System
+
+Instrumentation amplifier-based ECG signal conditioning and monitoring circuit.
+
+### 🔹 Smart Gold Testing Kit
+
+Sensor-based system for gold purity analysis.
+
+### 🔹 Object Detector Using Arduino
+
+Arduino and ultrasonic sensor-based object detection system.
+
+### 🔹 Hand Gesture Controlled Car
+
+Wireless hand gesture-controlled robotic vehicle using sensors and microcontroller.
 
 ---
 
-## 📈 Coding Profiles
+# 🏆 Certifications
 
-- 💛 HackerRank
-- 💚 LeetCode
+✔ MATLAB Onramp
+
+✔ Simulink Onramp
+
+✔ Circuit Simulation Onramp
+
+✔ Arduino Programming – Infosys Springboard
+
+✔ NPTEL – Introduction to Semiconductor Devices
+
+✔ Linguaskill Business English (B1)
 
 ---
 
-## 📫 Connect with Me
+# 🏅 Achievements
+
+🏆 Certificate of Appreciation – AI Voice Forensics Lab (CIT)
+
+🏆 Smart India Hackathon (SIH) 2025 Participant
+
+🏆 CICADA'25 National-Level Hackathon Participant
+
+🏆 SREC UTSAVA'26 Poster Presentation
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
 
 📧 Email: **sugirthasomasundaram@gmail.com**
 
-💼 LinkedIn:
-https://www.linkedin.com/in/sugirtha011
+💼 LinkedIn:https://www.linkedin.com/in/sugirtha011
+
+💻 HackerRank: https://www.hackerrank.com/profile/sugirthasomasun1
+
+🧩 LeetCode: https://leetcode.com/u/sugirtha011/
 
 ---
 
-⭐ *"Learning, Building, and Growing Every Day."*
+<div align="center">
+
+### ⭐ "Learning today, Building tomorrow."
+
+Thanks for visiting my profile! 😊
+
+</div>
